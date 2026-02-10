@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Shipments.Application/Shipments.Application.csproj" />
+  <Project Path="Shipments.Contracts/Shipments.Contracts.csproj" />
+  <Project Path="Shipments.Domain/Shipments.Domain.csproj" />
+  <Project Path="Shipments.Infrastructure/Shipments.Infrastructure.csproj" />
+  <Project Path="Shipments.Test/Shipments.Test.csproj" Id="030ed52e-fb57-4037-b377-893901a87ca3" />
+  <Project Path="Shipments.WorkerService/Shipments.WorkerService.csproj" Id="48d0cdd8-1770-4c08-8138-8d9e15bbf21a" />
+  <Project Path="Shipments/Shipments.Api.csproj" />
+</Solution>

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Shipments\\Shipments.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Shipments.WorkerService\\Shipments.WorkerService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Shipments.Test\\Shipments.Test.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

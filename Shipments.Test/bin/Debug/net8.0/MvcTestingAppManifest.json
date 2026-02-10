@@ -1,0 +1,7 @@
+{
+  "Shipments.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\ShipmentsTransfera\\Shipments",
+  "Shipments.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\ShipmentsTransfera\\Shipments.Application",
+  "Shipments.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\ShipmentsTransfera\\Shipments.Contracts",
+  "Shipments.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\ShipmentsTransfera\\Shipments.Domain",
+  "Shipments.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\ShipmentsTransfera\\Shipments.Infrastructure"
+}
