@@ -1,0 +1,23 @@
+Arhitektura je višeslojna i odvajaju se pozivi  servisa i kompletne logike koja se poziva iz servisa.
+
+Shipments.Api nalaze nam se kontroleri za Shipments i Autentifikaciju (logovanje i registrovanje)
+
+Shipments.Applications je aplikacioni sloj koji razdvaja repositori i kontroler.
+Takođe se nalaze i ručno pisan exceptions sa definisanim porukama i statusima.
+Vrši se i mapiranje Dto u Model i obrnuto po potrebi.
+
+Shipments.Contracts sastoji se od interfejsa servisnog, repozitorija i auth. 
+Request i response modeli, Blob storage odnosno interfejs.
+
+Shipments.Domain se sastoji od Data Transfer Objet (Dto), enuma odnosno tipovi statusa kao i modela za mapiranje
+nad tabelama.
+
+Shipments.Infrastructure nalazi se migracija, Middleware koji hvala requestove i vraća poruke,
+Persistance koji definise tabele koje se koristi a u Configurations je konfiguracija polja iz tabela i 
+njihovih ogranicenja.
+Repository folder sastoji se od kompletne logike i rada sa pošiljkama, dok u security folderu imamo potrebnu logiku
+za autorizaciju odnosno logovanje i registrovanje korisnika.
+
+Shipments.Test sluzi za testiranje funkcija koji se pozivaju u Api sloju.
+
+Shipments.WorkerService je Hosted service 

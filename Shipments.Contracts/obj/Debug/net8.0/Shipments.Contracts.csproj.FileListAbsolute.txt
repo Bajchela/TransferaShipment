@@ -44,3 +44,4 @@ E:\Projects\ShipmentsTransfera\Shipments.Contracts\obj\Debug\net8.0\Shipments.Co
 E:\Projects\ShipmentsTransfera\Shipments.Contracts\obj\Debug\net8.0\refint\Shipments.Contracts.dll
 E:\Projects\ShipmentsTransfera\Shipments.Contracts\obj\Debug\net8.0\Shipments.Contracts.pdb
 E:\Projects\ShipmentsTransfera\Shipments.Contracts\obj\Debug\net8.0\ref\Shipments.Contracts.dll
+E:\Projects\ShipmentsTransfera\Shipments.Contracts\obj\Debug\net8.0\Shipments.Contracts.sourcelink.json

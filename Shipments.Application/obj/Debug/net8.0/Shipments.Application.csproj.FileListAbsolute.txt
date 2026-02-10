@@ -50,3 +50,4 @@ E:\Projects\ShipmentsTransfera\Shipments.Application\obj\Debug\net8.0\Shipments.
 E:\Projects\ShipmentsTransfera\Shipments.Application\obj\Debug\net8.0\refint\Shipments.Application.dll
 E:\Projects\ShipmentsTransfera\Shipments.Application\obj\Debug\net8.0\Shipments.Application.pdb
 E:\Projects\ShipmentsTransfera\Shipments.Application\obj\Debug\net8.0\ref\Shipments.Application.dll
+E:\Projects\ShipmentsTransfera\Shipments.Application\obj\Debug\net8.0\Shipments.Application.sourcelink.json

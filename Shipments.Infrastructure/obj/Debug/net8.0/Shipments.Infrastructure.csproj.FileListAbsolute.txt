@@ -54,3 +54,4 @@ E:\Projects\ShipmentsTransfera\Shipments.Infrastructure\obj\Debug\net8.0\refint\
 E:\Projects\ShipmentsTransfera\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.pdb
 E:\Projects\ShipmentsTransfera\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.genruntimeconfig.cache
 E:\Projects\ShipmentsTransfera\Shipments.Infrastructure\obj\Debug\net8.0\ref\Shipments.Infrastructure.dll
+E:\Projects\ShipmentsTransfera\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.sourcelink.json

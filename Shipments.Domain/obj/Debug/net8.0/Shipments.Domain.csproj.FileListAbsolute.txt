@@ -35,3 +35,4 @@ E:\Projects\ShipmentsTransfera\Shipments.Domain\obj\Debug\net8.0\Shipments.Domai
 E:\Projects\ShipmentsTransfera\Shipments.Domain\obj\Debug\net8.0\refint\Shipments.Domain.dll
 E:\Projects\ShipmentsTransfera\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.pdb
 E:\Projects\ShipmentsTransfera\Shipments.Domain\obj\Debug\net8.0\ref\Shipments.Domain.dll
+E:\Projects\ShipmentsTransfera\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.sourcelink.json
