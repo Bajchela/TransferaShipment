@@ -16,7 +16,7 @@ Shipments.Infrastructure nalazi se migracija, Middleware koji hvala requestove i
 Persistance koji definise tabele koje se koristi a u Configurations je konfiguracija polja iz tabela i 
 njihovih ogranicenja.
 Repository folder sastoji se od kompletne logike i rada sa pošiljkama, dok u security folderu imamo potrebnu logiku
-za autorizaciju odnosno logovanje i registrovanje korisnika.
+za autorizaciju i autentifikaciju odnosno logovanje i registrovanje korisnika.
 
 Shipments.Test sluzi za testiranje funkcija koji se pozivaju u Api sloju.
 
